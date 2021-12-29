@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tuxedo", "tuxedo", "{C1E94DC1-9831-41B0-81ED-9AF5E65E8FE9}"
+	ProjectSection(SolutionItems) = preProject
+		costume.html = costume.html
+		HTMLPage1.html = HTMLPage1.html
+		index.html = index.html
+		shtani.html = shtani.html
+		sorochki.html = sorochki.html
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{147A2812-6963-461E-8B64-FC54D6B261FF}"
+	ProjectSection(SolutionItems) = preProject
+		..\bruki 2.png = ..\bruki 2.png
+		..\bruki 3.png = ..\bruki 3.png
+		..\bruki 4.png = ..\bruki 4.png
+		..\bruki 5.png = ..\bruki 5.png
+		..\bruki 6.png = ..\bruki 6.png
+		..\bruki 7.png = ..\bruki 7.png
+		..\bruki 8.png = ..\bruki 8.png
+		..\bruki1.png = ..\bruki1.png
+		..\costume logo.png = ..\costume logo.png
+		..\galstuk 22.png = ..\galstuk 22.png
+		..\galstuk 33.png = ..\galstuk 33.png
+		..\galstuk 5.png = ..\galstuk 5.png
+		..\galstuk 6.png = ..\galstuk 6.png
+		..\galstuk 8.png = ..\galstuk 8.png
+		..\galstuk11.png = ..\galstuk11.png
+		..\galstuk7.png = ..\galstuk7.png
+		HTMLPage1.html = HTMLPage1.html
+		..\icons8-facebook.png = ..\icons8-facebook.png
+		..\icons8-geozona.png = ..\icons8-geozona.png
+		..\icons8-instagram-192.png = ..\icons8-instagram-192.png
+		..\icons8-геозона-100.png = ..\icons8-геозона-100.png
+		..\icons8-значки-facebook-в-форме-круга-192.png = ..\icons8-значки-facebook-в-форме-круга-192.png
+		..\icons8-корзина-2-100.png = ..\icons8-корзина-2-100.png
+		..\icons8-корзина-256.png = ..\icons8-корзина-256.png
+		..\icons8-поиск-500.png = ..\icons8-поиск-500.png
+		..\icons8-телефон-90.png = ..\icons8-телефон-90.png
+		..\icons8-ютуб-120.png = ..\icons8-ютуб-120.png
+		..\icons8korzina2-100.png = ..\icons8korzina2-100.png
+		..\lupa.png = ..\lupa.png
+		..\phone.png = ..\phone.png
+		..\pidjak.jpg = ..\pidjak.jpg
+		..\pijack  5.png = ..\pijack  5.png
+		..\pijack  6.png = ..\pijack  6.png
+		..\pijack 1.png = ..\pijack 1.png
+		..\pijack 2.png = ..\pijack 2.png
+		..\pijack 3.png = ..\pijack 3.png
+		..\pijack 4.png = ..\pijack 4.png
+		..\pijack 44.png = ..\pijack 44.png
+		..\pijack 7.png = ..\pijack 7.png
+		..\pijack 8.png = ..\pijack 8.png
+		..\qr0tm9BliR0.jpg = ..\qr0tm9BliR0.jpg
+		..\rollers-4128215_1280.jpg = ..\rollers-4128215_1280.jpg
+		..\rubashka 1.png = ..\rubashka 1.png
+		..\rubashka 3.png = ..\rubashka 3.png
+		..\rubashka 4.png = ..\rubashka 4.png
+		..\rubashka 7.png = ..\rubashka 7.png
+		..\rubashka 8.png = ..\rubashka 8.png
+		..\rubashka.jpg = ..\rubashka.jpg
+		..\rubashka2.png = ..\rubashka2.png
+		..\rubashka5.png = ..\rubashka5.png
+		..\rubashka6.png = ..\rubashka6.png
+		TextFile1.txt = TextFile1.txt
+		..\youtube.png = ..\youtube.png
+		..\брюки 1.png = ..\брюки 1.png
+		..\брюки 2.png = ..\брюки 2.png
+		..\брюки 3.png = ..\брюки 3.png
+		..\брюки 4.png = ..\брюки 4.png
+		..\брюки 6.png = ..\брюки 6.png
+		..\брюки 7.png = ..\брюки 7.png
+		..\брюки 8.png = ..\брюки 8.png
+		..\галстук 11.png = ..\галстук 11.png
+		..\галстук 22.png = ..\галстук 22.png
+		..\галстук 33.png = ..\галстук 33.png
+		..\галстук 44.png = ..\галстук 44.png
+		..\галстук 5.png = ..\галстук 5.png
+		..\галстук 6.png = ..\галстук 6.png
+		..\галстук 8.png = ..\галстук 8.png
+		..\пиджак  6.png = ..\пиджак  6.png
+		..\пиджак  7.png = ..\пиджак  7.png
+		..\пиджак 1.png = ..\пиджак 1.png
+		..\пиджак 2.png = ..\пиджак 2.png
+		..\пиджак 3.png = ..\пиджак 3.png
+		..\пиджак 8.png = ..\пиджак 8.png
+		..\рубашка 1.png = ..\рубашка 1.png
+		..\рубашка 2.png = ..\рубашка 2.png
+		..\рубашка 3.png = ..\рубашка 3.png
+		..\рубашка 4.png = ..\рубашка 4.png
+		..\рубашка 6.png = ..\рубашка 6.png
+		..\рубашка 7.png = ..\рубашка 7.png
+		..\рубашка 8.png = ..\рубашка 8.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721CDD7D-0C24-4B38-B3FD-909028687236}
+	EndGlobalSection
+EndGlobal

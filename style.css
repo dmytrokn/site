@@ -1,0 +1,217 @@
+body {
+	height:100%;
+	background-color: #FFFFFF;
+	font-family: 'Pacifico', cursive;
+	color: #333333;
+	font-size: 24px;
+}
+.wrapper{
+	min-height:100%;
+	max-width:1110px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin:0 auto;
+	display:flex;
+	flex-direction:column;
+}
+.nav {
+	display: flex;
+	flex-direction: row;
+	padding-left: 0;
+	padding: 20px;
+	
+}
+	.nav > li {
+		margin-left:30px;
+		margin-right:30px;
+		display: inline;
+	
+	}
+		.nav > li > a {
+			text-decoration: none;
+			color: #FFFFFF;
+		}
+.email > a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.header-top {
+	display: flex;
+	align-items: center;
+}
+.header-middle {
+	background-color: #333333;
+}
+.geo {
+	color: white;
+	font-size: 18px;
+	margin-right: 100px;
+}
+.geoz {
+	margin: 10px;
+	margin-left:-50px;
+}
+.trybka {
+	color: white;
+	font-size: 18px;
+}
+.try {
+	margin: 10px;
+}
+.bg-grey {
+	background-color: #8E8B8B;
+}
+.name {
+	align-items:center;
+	font-size: 64px;
+	color: white;
+	padding: 25px;
+	margin-left: 80px;
+	
+}
+.name > a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.search {
+	
+	width: 100%;
+	position: relative;
+	display: flex;
+	margin-bottom: 450px;
+}
+
+.searchTerm {
+	
+	border: 3px solid #8E8B8B;
+	width: 100%;
+	padding: 10px;
+	height: 30px;
+	border-radius: 15px 0 0 15px;
+}
+
+
+.searchButton {
+	
+	border: 3px solid #8E8B8B;
+	width: 55px;
+	background: #8E8B8B;
+	text-align: center;
+	color: #eeeeee;
+	border-radius: 0 15px 15px 0;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.wrap {
+	width: 30%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.basket {
+	align-items: center;
+	display: flex;
+	justify-content: right;
+	margin-right:440px;
+	margin-top: -70px;
+}
+.container {
+	flex: 1 1 auto;
+}
+.photo {
+	display: flex;
+	justify-content: center;
+}
+.phot2 {
+	margin-left: -409px;
+	margin-top: 285px;
+}
+.item {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	padding-left: 0;
+	padding: 20px;
+	font-size: 30px;
+}
+
+
+
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 250px;
+	margin: auto;
+	text-align: center;
+	font-size:20px;
+	
+}
+.hit {
+	text-align:center;
+}
+.price {
+	color: grey;
+	font-size: 30px;
+}
+
+.card button {
+	margin-top:-30px;
+	border: none;
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #333;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
+
+	.card button:hover {
+		opacity: 0.8;
+	}
+
+.footer {
+	background-color: #333333;
+}
+.nameb {
+	
+	font-size: 50px;
+	color: white;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	justify-content: space-between;
+	padding-top: 35px;
+	display: flex;
+}
+.nameb > a {
+	text-decoration: none;
+	color: white;
+}
+.date {
+	color: white;
+	display: flex;
+	text-align: left;
+	margin-left: 17px;
+	margin-top: -20px;
+	
+}
+.contact {
+	
+	color: white;
+	padding-bottom: 20px;
+	margin-left: -140px;
+	display: flex;
+	justify-content: right;
+}
+.email {
+	display: flex;
+	justify-content: right;
+	color: white;
+	padding-right: 175px;
+	margin-top: -65px;
+	text-align: right;
+}
